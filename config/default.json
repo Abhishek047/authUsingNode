@@ -1,4 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://Abhishek123:dbappend123@clusterappend.m8taj.mongodb.net/shopping?retryWrites=true&w=majority",
+    "mongoURI": "ENETR URI HERE",
     "jwtSecret": "shopSecret"
 }
